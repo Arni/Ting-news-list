@@ -1,0 +1,12 @@
+name = Ting news list
+description = Displays the newest books etc. from the library catalouge
+package = Ding!
+core = 6.x
+dependencies[] = jquery_ui
+dependencies[] = jquery_ui_theme
+dependencies[] = search
+dependencies[] = ting
+dependencies[] = ting_covers
+dependencies[] = transliteration
+dependencies[] = alma
+
