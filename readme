@@ -1,0 +1,5 @@
+Du installerer modulet ligesom andre moduler. Det gør at der er en pane kaldet ” Ting news list panel” til rådighed under panels som man kan placere på forsiden eller andre steder.
+
+Der er også en settings side admin/settings/ting_news_list hvor man kan tilføje søgninger. Du tilføjer titel i overskriftsfeltet som er titlen på fanbladet. I forespørgsels feltet tilføjer du en søgning til brønden. F.eks. ser søgningen efter skønlitteratur sådan ud:  ”sk bog voksenmaterialer not krimi ”.
+
+Første gang man kører den kan det tage op til 30 sekunder om at hente materialerne. Derefter er det cachet og går hurtigt.
